@@ -52,6 +52,7 @@ declare module "pdf.js-extract" {
 			offsetY: number;
 			width: number;
 			height: number;
+			annotations: Array<object>;
 		};
 		links: Array<string>;
 		content: Array<PDFExtractText>;

@@ -42,7 +42,8 @@
     "web-streams-polyfill": "3.2.0"
   },
   "engines": {
-
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
   },
   "types": "lib/index.d.ts",
   "readmeFilename": "README.md",
